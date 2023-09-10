@@ -1,4 +1,5 @@
-# vue-ulbi
+# vue 3 project
+
 
 ## Project setup
 ```
